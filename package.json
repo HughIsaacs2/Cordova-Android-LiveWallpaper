@@ -1,0 +1,29 @@
+{
+    "version": "0.0.1",
+    "name": "com.hughisaacs2.cordova.plugins.androidlivewallpaperplugin",
+    "cordova_name": "AndroidLiveWallpaperPlugin",
+    "description": "Cordova Android Live Wallpaper Plugin",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HughIsaacs2/Cordova-Android-LiveWallpaper.git"
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+  "author": "Hugh Isaacs II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HughIsaacs2/Cordova-Android-LiveWallpaper/issues"
+  },
+  "homepage": "https://github.com/HughIsaacs2/Cordova-Android-LiveWallpaper"
+}
